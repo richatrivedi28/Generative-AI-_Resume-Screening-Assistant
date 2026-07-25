@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pypdf
+pandas
+ipykernel
+python-dotenv
+pydantic
+langgraph
+matplotlib
